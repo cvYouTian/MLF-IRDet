@@ -3,10 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 DETL-Net/data/dataset/
+DETL-Net/data/__pycache__/
 ISNet-master/.idea/
 ISNet-master/IRSTD-1k/
 DETL-Net/.idea/
 .idea/
+*/__pacache__/
 # C extensions
 *.so
 
